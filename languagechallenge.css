@@ -1,1 +1,10 @@
-languagechallenge.css
+.img-responsive{
+	max-width: 100%
+}
+
+.contents{
+	background-color: black;
+	font-family: 'Lato', sans-serif;
+	text-align: center;
+	color: white
+}
