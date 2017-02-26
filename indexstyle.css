@@ -1,0 +1,42 @@
+.text-center{
+	text-align: center;
+	color: white;
+}
+
+.img-responsive{
+	max-width: 100%
+}
+
+.tagline{
+	font-size: 60px;
+}
+
+.maintitle{
+	font-size: 100px;
+}
+.text-headings{
+	color: white;
+	text-align: center;
+}
+
+.btn-default{
+	background-color: black;
+	font-size: 20px;
+	color: white
+}
+
+.contents{
+	background-color: black;
+}
+
+.main-image{
+background-image: url('https://hdimagesnew.com/wp-content/uploads/2015/11/3D-Wallpapers-Beautiful-Nature-Background.jpg');
+background-size: cover;
+background-repeat: no-repeat;
+padding-top: 300px;
+padding-bottom: 300px;
+}
+
+.navbar-collapse{
+
+}
